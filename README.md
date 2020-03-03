@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="GoBarber" title="GoBarber" src=".github/moustache.png" width="300px" /><br />
-  #GoBarber
+  GoBarber
 </h1>
 
 ## Backend
