@@ -7,14 +7,18 @@
 ### Instalando todas as dependências
 Rode o comando "yarn".
 
-### Rodar api e fila
+### Executando API e Fila
 Rode o comando "yarn dev" e "yarn queue".
 
-### Teste os comandos
+### Testando os comandos
 Importe o arquivo no Insomnia clicando <a href=".github/insomnia.json">aqui</a>.
 
 ## Frontend
-Em breve.
+### Instalando todas as dependências
+Rode o comando "yarn".
+
+### Executando a aplicação
+Rode o comando "yarn start".
 
 ## Mobile
 Em breve.
